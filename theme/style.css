@@ -1,0 +1,11 @@
+html, body {
+  font-family: "Open Sans", sans-serif;
+  margin: 50pt;
+  border: 0;
+  font-size: 100%;
+  background-color: #dfdfdf;
+}
+h1 {
+  text-align: center;
+  color: #010101;
+}
